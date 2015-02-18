@@ -1,5 +1,4 @@
 # devise-with-bootstrap
-Base app with authentication backed by Bootstrap
 
 This is a Ruby on Rails application developed using gems devise,
 devise-bootstrap-views and bootstrap-generators.
@@ -15,11 +14,11 @@ Since this application has both of the above, it can serve as a base for your ap
  
 * Once you successfully clone the repo, run 'bundle' to install the required gems.
   <pre>
-    bundle
+    $ bundle
   </pre>
 * Then run db migration using the below command:
   <pre>
-    rake db:migrate
+    $ rake db:migrate
   </pre>
 
 * Now start your rails server.
