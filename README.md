@@ -23,7 +23,7 @@ Since this application has both of the above, it can serve as a base for your ap
 
 * Now start your rails server.
 
-* You can access the sign up page from http://<YOUR-APP-URL>/users/sign_up
+* You can access the sign up page from http://YOUR-APP-URL/users/sign_up
 
  
 And your are all set to develop your actual on top of this.
